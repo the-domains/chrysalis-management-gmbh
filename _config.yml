@@ -1,0 +1,28 @@
+name: Chrysalis Management GmbH
+favicon: null
+layout_spectrum: 0.3883492450695485
+typography_spectrum: 0.12090317066758871
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22967228991910815
+  lightness: 0.6115188288968056
+  saturation: 0.20875438675284386
+  rhythmicContrast: 0.4808146266732365
+purpose: []
