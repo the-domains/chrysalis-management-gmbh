@@ -1,7 +1,7 @@
 name: Chrysalis Management GmbH
 favicon: null
-layout_spectrum: 0.3883492450695485
-typography_spectrum: 0.12090317066758871
+layout_spectrum: 0.75587
+typography_spectrum: 0.04635
 title: Chrysalis Management GmbH
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.22967228991910815
-  lightness: 0.6115188288968056
-  saturation: 0.20875438675284386
-  rhythmicContrast: 0.4808146266732365
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
