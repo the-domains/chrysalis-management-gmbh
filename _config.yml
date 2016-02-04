@@ -1,4 +1,4 @@
-name: Chrysalis Management GmbH
+name: George Matarazzo
 favicon: null
 layout_spectrum: 0.75587
 typography_spectrum: 0.04635
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#fafeff'
+    - '#544033'
+    - '#9eafbb'
+    - '#6b7c88'
+    - '#fd5c3b'
   brandStrength: 0.5
   lightness: 0
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
